@@ -4,7 +4,7 @@ Physics-informed dynamic Bayesian network for Building HVAC FDD purpose
 
 ## Description
 
-This algorithm comprises a two-step dynamic Bayesian network file (.xdsl) and a main FDD execution program file (.cpp). Additionally, the FDD data file of a real building application is provided.
+This algorithm comprises a two-step dynamic Bayesian network file (.xdsl) and a main FDD execution program file (.cpp). Additionally, the FDD data file (.csv) of a real building application is provided.
 
 ## Getting Started
 
